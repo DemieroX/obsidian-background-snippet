@@ -8,7 +8,7 @@ A minimal CSS snippet for Obsidian that sets a fixed, customizable background im
 
 ## Installation
 
-1.  **Save the File:** Place the `Backgrounds.css` file into your **Obsidian Snippets folder**.
+1.  **Save the File:** Place the `Backgrounds.css` file into  **\YourVault\.obsidian\snippets**.
 2.  **Enable:** Go to **Settings** -> **Appearance** -> **CSS Snippets**.
 3.  Toggle the **Note Background Image** snippet **ON**.
 
