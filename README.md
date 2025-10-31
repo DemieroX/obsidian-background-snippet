@@ -1,6 +1,6 @@
-# Note Background Image Snippet
+# Obsidian Note Background Snippet
 
-A minimal CSS snippet for Obsidian that sets a fixed, customizable background image for individual notes. It forces all note content (text, blocks, and other images) to remain fully opaque and readable above the background.
+CSS snippet for Obsidian that sets a fixed, customizable background image for individual notes. It forces all note content (text, blocks, and other images) to remain fully opaque and readable above the background.
 
 ![Showcase](images/enable-background.gif)
 
