@@ -8,8 +8,8 @@ CSS snippet for Obsidian that sets a fixed, customizable background image for in
 
 ## Installation
 
-1.  **Save the File:** Place the `Backgrounds.css` file into  **\YourVault\.obsidian\snippets**.
-2.  **Enable:** Go to **Settings** -> **Appearance** -> **CSS Snippets**.
+1.  Place the `Backgrounds.css` file into  **\YourVault\.obsidian\snippets**.
+2.  Go to **Settings** -> **Appearance** -> **CSS Snippets**.
 3.  Toggle the **Note Background Image** snippet **ON**.
 
 ## Usage
@@ -29,7 +29,7 @@ To activate the background on any note:
 
 ## Customization
 
-Install the **Style Settings** plugin. In its settings, find **Note Background Image** to adjust:
+Install the **Style Settings** plugin. In its settings, find **Background Settings** to adjust:
 
 * **Opacity:** Sets image transparency.
 * **Blur Effect:** Controls image blur.
